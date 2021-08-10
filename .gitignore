@@ -1,0 +1,41 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+/.gradle
+/gradle
+gradlew
+gradlew.bat
+
+### VS Code ###
+.vscode/
+
+logs/
+upload-dir/
+out/
+src/main/java/META-INF/
+/restore_commands.txt
